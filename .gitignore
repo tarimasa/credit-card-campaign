@@ -1,0 +1,6 @@
+.env
+data/campaigns.db
+__pycache__/
+*.pyc
+.playwright/
+.venv/
